@@ -269,6 +269,7 @@ li svg:hover path,svg:focus    path, svg:active path {
     gap: 2rem;
     justify-self: center;
     align-items: center;
+    align-content: center;
     justify-content: center;
     margin-top: 5rem;
   }
